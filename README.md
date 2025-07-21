@@ -1,1 +1,1 @@
-ALU_VERIFICATION_PLAN:  https://docs.google.com/spreadsheets/d/1EiGr3CBf-I6LHUi6QZYQYdQEVK19omPe/edit?usp=drive_link&ouid=116307063378372675382&rtpof=true&sd=true
+ALU_VERIFICATION_PLAN:  https://drive.google.com/drive/folders/1lCbgHG5DUSomrmg2lSr6S-B_wnIoVneM?usp=sharing
